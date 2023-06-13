@@ -1,0 +1,46 @@
+14:32:53.982 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+14:32:54.664 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 3
+14:32:55.707 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:4
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:4
+14:32:56.512 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) appium-mobile-automation/src/main/resources/Login.feature
+14:33:25.943 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+14:33:26.663 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1686656006654
+14:33:26.702 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 3
+14:33:27.765 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:4
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:4
+14:33:28.457 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) appium-mobile-automation/src/main/resources/Login.feature
+14:33:42.624 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+14:33:43.096 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1686656023090
+14:33:43.119 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 3
+14:33:44.250 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:4
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:4
+14:33:45.399 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) appium-mobile-automation/src/main/resources/Login.feature
+14:34:20.605 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+14:34:20.852 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1686656060847
+14:34:20.867 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 3
+14:34:21.464 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:4
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:4
+14:34:21.929 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) appium-mobile-automation/src/main/resources/Login.feature
+14:44:26.023 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+14:44:26.258 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1686656666255
+14:44:26.900 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:5
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:5
+14:44:26.908 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:12
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:12
+14:44:26.913 [main]  ERROR com.intuit.karate - appium-mobile-automation/src/main/resources/Login.feature:21
+Given Selendroid APK OPEN
+no step-definition method match found for: Selendroid APK OPEN
+appium-mobile-automation/src/main/resources/Login.feature:21
+14:44:27.490 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) appium-mobile-automation/src/main/resources/Login.feature
